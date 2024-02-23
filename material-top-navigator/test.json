@@ -1,0 +1,39 @@
+{
+    "props": {
+        "navigation": {
+            "addListener": [Function addListener
+            ],
+            "canGoBack": [Function canGoBack
+            ],
+            "dispatch": [Function dispatch
+            ],
+            "getId": [Function getId
+            ],
+            "getParent": [Function getParent
+            ],
+            "getState": [Function anonymous
+            ],
+            "goBack": [Function anonymous
+            ],
+            "isFocused": [Function isFocused
+            ],
+            "jumpTo": [Function anonymous
+            ],
+            "navigate": [Function anonymous
+            ],
+            "removeListener": [Function removeListener
+            ],
+            "reset": [Function anonymous
+            ],
+            "setOptions": [Function setOptions
+            ],
+            "setParams": [Function anonymous
+            ]
+        },
+        "route": {
+            "key": "Home-n8Bd8j-s26irTBSxQP3pK",
+            "name": "Home",
+            "params": undefined
+        }
+    }
+}
